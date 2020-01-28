@@ -1,0 +1,22 @@
+{
+  "name": "loopedin",
+  "version": "1.0.0",
+  "description": "LoopedIn is a cool way to loop your professional circle in & connect with like-minded people.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treaganbirbal/loopedIn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treaganbirbal/loopedIn/issues"
+  },
+  "homepage": "https://github.com/treaganbirbal/loopedIn#readme",
+  "dependencies": {
+    "firebase": "^7.7.0"
+  }
+}
